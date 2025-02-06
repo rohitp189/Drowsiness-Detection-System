@@ -1,0 +1,12 @@
+streamlit
+mysql-connector-python
+bcrypt
+pandas
+numpy
+matplotlib
+streamlit_shadcn_ui
+plotly
+opencv-python
+dlib
+pygame
+scipy
